@@ -7,15 +7,18 @@ namespace uyg01
             InitializeComponent();
         }
 
-
-        private void btnKaydet_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
+
 
         }
 
-        private void btnYaz_Click(object sender, EventArgs e)
+        private void btnHesapla_Click(object sender, EventArgs e)
         {
-
+            const double pi = 3.14;
+            double r = Convert.ToDouble(txtDeger.Text);
+            double alan = pi * r * r;
+            lbSonuc.Text = "Yarý Çapý " + r.ToString() + " olan Dairenin Alaný :" + alan.ToString();
         }
     }
 }
