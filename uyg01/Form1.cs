@@ -19,6 +19,7 @@ namespace uyg01
             double r = Convert.ToDouble(txtDeger.Text);
             double alan = pi * r * r;
             lbSonuc.Text = "Yarý Çapý " + r.ToString() + " olan Dairenin Alaný :" + alan.ToString();
+
         }
     }
 }
