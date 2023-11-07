@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema 
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme kodunu yapıştırabilirsiniz. Belgenize en iyi uyan videoyu çevrimiçi olarak aramak için bir anahtar sözcük de yazabilirsiniz.</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme kodunu yapıştırabilirsiniz. Belgenize en iyi uyan videoyu çevrimiçi olarak aramak için bir anahtar sözcük de yazabilirsiniz.</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme kodunu yapıştırabilirsiniz. Belgenize en iyi uyan videoyu çevrimiçi olarak aramak için bir anahtar sözcük de yazabilirsiniz.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAPnSURBVHhe7ZrLTxNhFMX5b+RhDfIwEf0/jHEha5dG1xQW
+        Wh8R4iODmqiJghotCxMFioCEAiIg8lJpEaI1BJBE3KkLPnsnd+rteArD1+nYgTnJb+m559z5viE4lAQK
+        FChQoECBAm2n2lvzldWtiYfVRmKlpjWpLMrC3San2sbU+sYPk4npWdU7OOII69/sBJplza02kmGOWDjV
+        GokTNUbytyxeLAugDAVdAj35XOUJtICx6Tk1+GbcEbKYU+wLIAq2BDr2srAdtIBnff3qRlu7I2Qxp6AF
+        EAVZQk1rYlUOsVNMCyBcX0KNkdi0D5EU2wIIV5eABkiKcQEmRjLCFfITNBcU7QIIN5YAjQVWkPp7o5mA
+        PcPDsKydO9GOrGJOOXn3tbMFpOEa+kKmEivI0Uv9au37hhnwU+qrMh49hqUl8Ym3/5TbDppRd7Gv+BZA
+        dEwsZYLSEnqGRszrYOfFwKCa/PAxq5hTno4vZc1EmSRcQ1/IVFLe9DIThk7BXOobDO4Gs6k1dSQ9w5pX
+        3tQLM0m4hr6QqSQUiWcCWUuIji9mroMbkBc9eVmeCEWGYCYJ19AXMpVUXZ9VZY2xrGAE3VN6MdIbOx/I
+        Q975v8TSs+dgJgnX0BcytVPZPAmXUDhiqrLlHcxih2voC5ki6CSELgxlvRPchrzp2Dt58hZcQ1/I1E9w
+        DX0hUz/BNfSFTP0E19AXMvUTXENfyNRPcA19IVM/wTX0hUz9BNfQFzL1E1xDX8jUT3ANfSFTP8E19IVM
+        c1F3e0HVRz+r08+/FATyPpyegWbngmvoC5naOXQzqZrjyyq17t6vwLmgGVcGl82ZKIsdrqEvZCqpTROd
+        WoNhC8mTqVVzNsok4Rr6QqaSs10pGNALznSmYCYJ19AXMpW8Shbuv8C2oz89G2WScA19IVOJF/c+FzQb
+        ZZJwDX0hUwkKtpPP404hTzQLZZJwDX0hUwkKtecX8H5h0QzsJuSJZqFMEq6hL2QqQaG8BGWScA19IVMJ
+        CuUlKJOEa+gLmUpQqD1/BSgwepHlA3miWSiThGvoC5lKUKjdtQAjAY0tUCgvQZksqo35/BdQdW0Gmlug
+        UF6CMlkcvDqT/wJCkfiWfySFQnkJymQROh/f5Br6Kg13rWz1IRKF8hKUiahsmaTvictcQ19lDV3t5eGY
+        OnB51LxT9kEolJfY81BGykqZSxu6H3ANfe1r6gmVhrt/mV9nG2Oq4tyA2h+JZ7jfM/ZfkVkoG2U0vyY3
+        dP8sa+qs4Br5qTQcO24twQ76keUlKJNZPtx1jOO7IzoJafO2tPmyHIZCeYnMQtno2Lv25AMFChQoUKBA
+        u1glJX8ATjfxdcEB8U0AAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme kodunu yapıştırabilirsiniz. Belgenize en iyi uyan videoyu çevrimiçi olarak aramak için bir anahtar sözcük de yazabilirsiniz.</value>
+  </data>
+  <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        EQAACxEBf2RfkQAAA+dJREFUeF7tmstPE2EUxflv5GEN8jAR/T+McSFrl0bXFBZaHxHiI4OaqImCGi0L
+        EwWKgIQCIiDyUmkRojUEkETcqQs+eyd36u14CsPX6diBOclv6bnn3Pm+ITiUBAoUKFCgQIECbafaW/OV
+        1a2Jh9VGYqWmNaksysLdJqfaxtT6xg+TielZ1Ts44gjr3+wEmmXNrTaSYY5YONUaiRM1RvK3LF4sC6AM
+        BV0CPflc5Qm0gLHpOTX4ZtwRsphT7AsgCrYEOvaysB20gGd9/epGW7sjZDGnoAUQBVlCTWtiVQ6xU0wL
+        IFxfQo2R2LQPkRTbAghXl4AGSIpxASZGMsIV8hM0FxTtAgg3lgCNBVaQ+nujmYA9w8OwrJ070Y6sYk45
+        efe1swWk4Rr6QqYSK8jRS/1q7fuGGfBT6qsyHj2GpSXxibf/lNsOmlF3sa/4FkB0TCxlgtISeoZGzOtg
+        58XAoJr88DGrmFOeji9lzUSZJFxDX8hUUt70MhOGTsFc6hsM7gazqTV1JD3Dmlfe1AszSbiGvpCpJBSJ
+        ZwJZS4iOL2augxuQFz15WZ4IRYZgJgnX0BcylVRdn1VljbGsYATdU3ox0hs7H8hD3vm/xNKz52AmCdfQ
+        FzK1U9k8CZdQOGKqsuUdzGKHa+gLmSLoJIQuDGW9E9yGvOnYO3nyFlxDX8jUT3ANfSFTP8E19IVM/QTX
+        0Bcy9RNcQ1/I1E9wDX0hUz/BNfSFTP0E19AXMvUTXENfyNRPcA19IVM/wTX0hUxzUXd7QdVHP6vTz78U
+        BPI+nJ6BZueCa+gLmdo5dDOpmuPLKrXu3q/AuaAZVwaXzZkoix2uoS9kKqlNE51ag2ELyZOpVXM2yiTh
+        GvpCppKzXSkY0AvOdKZgJgnX0BcylbxKFu6/wLajPz0bZZJwDX0hU4kX9z4XNBtlknANfSFTCQq2k8/j
+        TiFPNAtlknANfSFTCQq15xfwfmHRDOwm5IlmoUwSrqEvZCpBobwEZZJwDX0hUwkK5SUok4Rr6AuZSlCo
+        PX8FKDB6keUDeaJZKJOEa+gLmUpQqN21ACMBjS1QKC9BmSyqjfn8F1B1bQaaW6BQXoIyWRy8OpP/AkKR
+        +JZ/JIVCeQnKZBE6H9/kGvoqDXetbPUhEoXyEpSJqGyZpO+Jy1xDX2UNXe3l4Zg6cHnUvFP2QSiUl9jz
+        UEbKSplLG7ofcA197WvqCZWGu3+ZX2cbY6ri3IDaH4lnuN8z9l+RWSgbZTS/Jjd0/yxr6qzgGvmpNBw7
+        bi3BDvqR5SUok1k+3HWM47sjOglp87a0+bIchkJ5icxC2ejYu/bkAwUKFChQoEC7WCUlfwBON/F1wQHx
+        TQAAAABJRU5ErkJggg==
+</value>
+  </data>
+</root>
