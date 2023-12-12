@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "uyg12", "uyg12\uyg12.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "uyg13", "uyg13\uyg13.csproj", "{A94519D4-9F77-4C50-9708-BDE0CD4539F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uyg14", "uyg14\uyg14.csproj", "{0864E18E-B4A4-4589-9C9E-6BB00755AD62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "uyg14", "uyg14\uyg14.csproj", "{0864E18E-B4A4-4589-9C9E-6BB00755AD62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uyg15", "uyg15\uyg15.csproj", "{E8A12572-F1C4-48CA-A686-7F02F3738526}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "uyg15", "uyg15\uyg15.csproj", "{E8A12572-F1C4-48CA-A686-7F02F3738526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uyg16", "uyg16\uyg16.csproj", "{15065725-987D-4DC2-B0A2-4E4330D690D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{E8A12572-F1C4-48CA-A686-7F02F3738526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8A12572-F1C4-48CA-A686-7F02F3738526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8A12572-F1C4-48CA-A686-7F02F3738526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15065725-987D-4DC2-B0A2-4E4330D690D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15065725-987D-4DC2-B0A2-4E4330D690D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15065725-987D-4DC2-B0A2-4E4330D690D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15065725-987D-4DC2-B0A2-4E4330D690D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
