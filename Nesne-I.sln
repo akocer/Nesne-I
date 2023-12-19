@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uyg19", "uyg19\uyg19.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uyg20", "uyg20\uyg20.csproj", "{D9047FF5-5EBA-4A77-BE37-7491D05C5580}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uyg21", "uyg21\uyg21.csproj", "{28FE73D8-91FD-49E7-9349-C2F8C0885B0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{D9047FF5-5EBA-4A77-BE37-7491D05C5580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9047FF5-5EBA-4A77-BE37-7491D05C5580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9047FF5-5EBA-4A77-BE37-7491D05C5580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28FE73D8-91FD-49E7-9349-C2F8C0885B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FE73D8-91FD-49E7-9349-C2F8C0885B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FE73D8-91FD-49E7-9349-C2F8C0885B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FE73D8-91FD-49E7-9349-C2F8C0885B0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
