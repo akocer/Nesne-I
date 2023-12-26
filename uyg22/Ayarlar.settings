@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="uyg22" GeneratedClassName="Ayarlar">
+  <Profiles />
+  <Settings>
+    <Setting Name="ArkaPlanRengi" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 128, 0</Value>
+    </Setting>
+    <Setting Name="YaziRengi" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="YaziFontu" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Verdana, 8pt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
